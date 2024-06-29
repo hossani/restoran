@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": "0042",
+      "titre": "repas 5",
+      "prix": "33",
+      "categorie": "Lunch",
+      "description": "herira",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1719585304/vuionuj9zjkmtv4aczgq.jpg"
+    },
+    {
+      "id": "cfde",
+      "titre": "repas 4",
+      "prix": "29",
+      "categorie": "Breakfast",
+      "description": "panini thon",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1719607625/jxg4fmz1ngqt8osjlnlp.jpg"
+    },
+    {
+      "id": "f63b",
+      "titre": "repas 3",
+      "prix": "100",
+      "categorie": "Breakfast",
+      "description": "tajin poisson",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1719685724/mw2cdkvboemgztm5pj1g.jpg"
+    },
+    {
+      "id": "3e38",
+      "titre": "repas 2",
+      "prix": "22",
+      "categorie": "Snacks",
+      "description": "Couscous benin",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1719686683/lzxkfovyoesyfntowl3i.jpg"
+    },
+    {
+      "id": "f3eb",
+      "titre": "repas 1",
+      "prix": "222",
+      "categorie": "Dinner",
+      "description": "sandwich viande ",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1719686704/yrmoezfezcwzic9qxekq.jpg"
+    }
+  ]
+}
